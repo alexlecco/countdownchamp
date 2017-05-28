@@ -1,8 +1,12 @@
 .App {
   text-align: center;
   font-size: 35px;
-  margin-top: 20%;
+  margin-top: 10%;
   font-family: 'Roboto', sans-serif;
+}
+
+.Container {
+  margin: 50px;
 }
 
 .App-title {
